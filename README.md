@@ -6,5 +6,8 @@ this is added on example branch
 
 update made on main before rebase
 
-##update combined from local and remote github
-##chnages for tag example
+## update combined from local and remote github
+## chnages for tag example
+
+## Adding Getting started section
+issue resolved
